@@ -1,2 +1,40 @@
-# ricardovaltierra.github.io
-Homepage for project portfolio
+Personal Portfolio
+==============
+
+### Built with
+
+- HTML
+- CSS
+- JS
+
+## :deciduous_tree: Live Version
+Trucking: [https://http://ricardovaltierra.github.io/](https://http://ricardovaltierra.github.io/)
+
+![Navigation_1](app/assets/images/nav_1.gif) ![Navigation_2](app/assets/images/nav_2.gif)
+
+### Step 4: View your app
+Now you can navigate to `localhost:3000` on your browser to see your app working.
+Feel free to create as many travels as required. If you want to record an official travel you will have to go first to register a city if there is no one.
+
+## 🤝 Contributing
+
+Contributions are more than welcome!<br/>Feel free to check [issues page](https://github.com/ricardovaltierra/ricardovaltierra.github.io/issues).
+
+
+1. Fork (https://github.com/ricardovaltierra/ricardovaltierra.github.io/fork)
+2. Create your working branch (git checkout -b [branch_name])
+3. Commit your changes (git commit -am 'what you will add or fix or improve')
+4. Push (git push origin [branch_name])
+5. Create a PR
+
+## 🤖 Contributor
+
+Ricardo Valtierra - [GitHub](https://github.com/ricardovaltierra)
+
+## 🙋‍♂ Support :)
+
+Give a ⭐️ if you liked it!
+
+## 📝 License
+
+This project is under the [MIT](LICENSE) license.
