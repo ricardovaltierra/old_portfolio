@@ -8,9 +8,9 @@ Personal Portfolio
 - JS
 
 ## :deciduous_tree: Live Version
-[https://http://ricardovaltierra.github.io/](https://http://ricardovaltierra.github.io/)
+[https://ricardovaltierra.github.io/](https://ricardovaltierra.github.io/)
 
-![Navigation_1](app/assets/images/nav_1.gif) ![Navigation_2](app/assets/images/nav_2.gif)
+![1](app/assets/images/nav_1.gif) ![2](app/assets/images/nav_2.gif)
 
 ## 🤝 Contributing
 
