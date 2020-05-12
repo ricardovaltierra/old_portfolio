@@ -12,10 +12,6 @@ Trucking: [https://http://ricardovaltierra.github.io/](https://http://ricardoval
 
 ![Navigation_1](app/assets/images/nav_1.gif) ![Navigation_2](app/assets/images/nav_2.gif)
 
-### Step 4: View your app
-Now you can navigate to `localhost:3000` on your browser to see your app working.
-Feel free to create as many travels as required. If you want to record an official travel you will have to go first to register a city if there is no one.
-
 ## 🤝 Contributing
 
 Contributions are more than welcome!<br/>Feel free to check [issues page](https://github.com/ricardovaltierra/ricardovaltierra.github.io/issues).
