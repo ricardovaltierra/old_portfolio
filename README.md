@@ -8,7 +8,7 @@ Personal Portfolio
 - JS
 
 ## :deciduous_tree: Live Version
-Trucking: [https://http://ricardovaltierra.github.io/](https://http://ricardovaltierra.github.io/)
+[https://http://ricardovaltierra.github.io/](https://http://ricardovaltierra.github.io/)
 
 ![Navigation_1](app/assets/images/nav_1.gif) ![Navigation_2](app/assets/images/nav_2.gif)
 
