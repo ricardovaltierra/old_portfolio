@@ -1,7 +1,7 @@
 linters:
   csslint: {  }
   stylelint:
-        config: 'stylelintrc.json'
+        config: eslint.json
         fixer: true
 files:
   ignore:
