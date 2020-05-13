@@ -10,7 +10,7 @@ Personal Portfolio
 ## :deciduous_tree: Live Version
 [https://ricardovaltierra.github.io/](https://ricardovaltierra.github.io/)
 
-![1](app/assets/images/nav_1.gif) ![2](app/assets/images/nav_2.gif)
+![1](img/presentation.gif) 
 
 ## 🤝 Contributing
 
