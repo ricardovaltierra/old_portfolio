@@ -1,5 +1,4 @@
 @media only screen and (min-width: 600px) {
-  
   .team-area {
     display: flex;
     width: 1390px;
@@ -93,7 +92,6 @@
 }
 
 @media (max-width: 600px) {
-
   .team-area {
     display: grid;
     width: 100%;
@@ -101,7 +99,7 @@
     grid-gap: 25px;
     margin-top: 25px;
   }
-  
+
   .single-team {
     width: 357.76px;
     height: 208px;
@@ -161,7 +159,8 @@
     position: absolute;
     top: 0;
     left: 0;
-    object-fit: cover;    
+    object-fit: cover;
+
   }
 
   .team-text > .test {
