@@ -1,5 +1,5 @@
 @media only screen and (min-width: 600px) {
-
+  
   .team-area {
     display: flex;
     width: 1390px;
@@ -92,14 +92,14 @@
   }
 }
 
-@media (max-width: 600px) {  
+@media (max-width: 600px) {
 
   .team-area {
     display: grid;
     width: 100%;
     justify-content: space-around;
     grid-gap: 25px;
-    margin-top: 25px;    
+    margin-top: 25px;
   }
   
   .single-team {
@@ -114,7 +114,12 @@
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
   }
 
-  .single-team .team-text {    
+  .team-text {
+    display: grid;
+    width: 100%;
+  }
+
+  .single-team .team-text {
     position: relative;
     z-index: 3;
     color: #fff;
@@ -157,14 +162,9 @@
     top: 0;
     left: 0;
     object-fit: cover;    
-  }  
-
-  .team-text {
-    display: grid;
-    width: 100%;
   }
 
-  .team-text>.test {
+  .team-text > .test {
     text-align: right;
   }
 
@@ -185,11 +185,12 @@
   .team-text a {
     display: inline-block;
     margin: 0 5px;
-    text-decoration: none;    
+    text-decoration: none;
   }
 
   .team-text a i {
     color: #fff;
     padding: 6px 8px;
   }
+
 }
