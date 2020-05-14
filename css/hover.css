@@ -191,4 +191,22 @@
     padding: 6px 8px;
   }
 
+  .social-icons {
+    width: 100%;
+    padding: 1.5rem;
+    text-align: center;
+  }
+
+  .social-icons a {
+    display: inline-block;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #495057;
+    color: #fff !important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3.5rem;
+    margin-top: 1.5rem;
+  }
 }
