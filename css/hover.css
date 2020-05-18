@@ -1,5 +1,4 @@
 @media only screen and (min-width: 1440px) {
-
   html {
     zoom: 125%;
   }
@@ -22,7 +21,6 @@
     align-items: flex-end;
     transition: 0.6s ease-out;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
-    background: black;
   }
 
   .single-team .team-text {
@@ -134,7 +132,6 @@
 }
 
 @media (max-width: 1440px) {
-
   .team-area {
     display: flex;
     width: 100%;
@@ -153,7 +150,6 @@
     align-items: flex-end;
     transition: 0.6s ease-out;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
-    background: black;
   }
 
   .single-team .team-text {
@@ -262,6 +258,7 @@
     color: #fff;
     padding: 0.2rem 0.3rem;
   }
+
   footer {
     text-align: right;
     padding-bottom: 1.125rem;
