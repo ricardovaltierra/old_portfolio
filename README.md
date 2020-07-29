@@ -19,20 +19,16 @@
 
 * [Getting Started](#getting-started)
 
-* [How it Works](#how-it-works)
-
 * [Contributing](#contributing)
 
 * [Contact](#contact)
 
 * [MIT License](#mit-license)
 
-* [Creative Commons License](#creative-commons-license)
-
 
 ## About The Project
 
-Restaurant page tribute page project for the application of ES6 and Webpack 4 with modularized code;
+Presonal proffesional portfolio
 
 ## Preview
 
