@@ -1,7 +1,5 @@
 # Personal Portfolio
 
-> Microverse ES6 Project
-
 <p align="right">
   <br>
   <a href="https://github.com/ricardovaltierra/ricardovaltierra.github.io">Explore the repo »</a>
