@@ -34,7 +34,7 @@ Presonal proffesional portfolio
 
 ![1](img/presentation.gif) 
 
-> [Live Version!](https://raw.githack.com/ricardovaltierra/restaurant-page/page-design/dist/index.html#)
+> [Live Version](https://raw.githack.com/ricardovaltierra/restaurant-page/page-design/dist/index.html#)
 
 ### Built With
 
