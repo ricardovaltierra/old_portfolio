@@ -32,7 +32,7 @@ Personal professional portfolio.
 
 ![1](img/presentation.gif)
 
-> [Live Version](https://ricardovaltierra.netlify.app/)
+> [Live Version](ricardovaltierra.github.io)
 
 ### Built With
 
