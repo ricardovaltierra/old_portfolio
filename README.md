@@ -32,7 +32,7 @@ Personal professional portfolio.
 
 ![1](img/presentation.gif)
 
-> [Live Version](https://raw.githack.com/ricardovaltierra/restaurant-page/page-design/dist/index.html#)
+> [Live Version](https://ricardovaltierra.netlify.app/)
 
 ### Built With
 
