@@ -32,7 +32,7 @@ Personal professional portfolio.
 
 ![1](img/presentation.gif)
 
-> [Live Version](ricardovaltierra.github.io)
+> [Live Version](https://ricardovaltierra.github.io/)
 
 ### Built With
 
