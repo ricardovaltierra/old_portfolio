@@ -26,11 +26,11 @@
 
 ## About The Project
 
-Presonal proffesional portfolio
+Personal professional portfolio.
 
 ## Preview
 
-![1](img/presentation.gif) 
+![1](img/presentation.gif)
 
 > [Live Version](https://raw.githack.com/ricardovaltierra/restaurant-page/page-design/dist/index.html#)
 
@@ -46,38 +46,38 @@ Presonal proffesional portfolio
 
 To get a local copy up and running follow these simple steps.
 
-Clone or fork the <a href="https://github.com/ricardovaltierra/ricardovaltierra.github.io">repo</a> [git@github.com:ricardovaltierra/ricardovaltierra.github.io.git]
+Clone or fork the <a href="https://github.com/ricardovaltierra/ricardovaltierra.github.io">repo</a> [git@github.com:ricardovaltierra/ricardovaltierra.github.io.git].
 
-*note you need have install npm or yarn
+*note you need have install npm or yarn.
 * [npm](https://www.npmjs.com/get-npm)
 * [yarn](https://classic.yarnpkg.com/en/docs/install)
 
 ### Running the code
 
-*   Navigate to the root directory of the project
+*   Navigate to the root directory of the project.
 
-*   Run this command on your terminal to add all the required packages and dependencies
+*   Run this command on your terminal to add all the required packages and dependencies.
     ```
     $ npm install
     ```
-*   If you're onto make some code edition you can 'watch' the live changes as follows
+*   If you're onto make some code edition you can 'watch' the live changes as follows.
     ```
     $ npm run start
     ```    
    
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
+1. Fork the Project.
 
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
 
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
 
-5. Open a Pull Request
+5. Open a Pull Request.
 
 ## Contact
 
