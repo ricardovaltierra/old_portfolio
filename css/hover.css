@@ -288,6 +288,12 @@
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
   }
 
+  .team-text {
+    display: grid;
+    width: 100%;
+    height: 11rem !important;
+    margin-bottom: -1rem;
+  }
 
   .single-team .team-text {
     position: relative;
@@ -332,13 +338,6 @@
     top: 0;
     left: 0;
     object-fit: cover;
-  }
-
-  .team-text {
-    display: grid;
-    width: 100%;
-    height: 11rem !important;
-    margin-bottom: -1rem;
   }
 
   .team-text h2 {
