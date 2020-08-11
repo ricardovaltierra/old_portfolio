@@ -4,7 +4,16 @@ body {
   @include body-font;
   padding-top: 54px;
   color: $gray-600;
+  background-color: $white;
 }
+
+// hr {
+//   position: absolute;
+//   right: 0;
+//   width: 910px;
+//   background-color: $primary;
+// }
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
