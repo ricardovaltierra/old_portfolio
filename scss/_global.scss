@@ -3,8 +3,8 @@
 body {
   @include body-font;
   padding-top: 54px;
-  color: $gray-600;
-  background-color: $black;
+  color: $gray-700;
+  background-color: $white;
 }
 
 // hr {
@@ -30,7 +30,7 @@ h6 {
   @include heading-font;
   font-weight: 700;
   text-transform: uppercase;
-  color: $gray-500;
+  color: $gray-800;
 }
 
 h1 {
