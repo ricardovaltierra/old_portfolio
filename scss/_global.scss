@@ -4,7 +4,7 @@ body {
   @include body-font;
   padding-top: 54px;
   color: $gray-600;
-  background-color: $white;
+  background-color: $black;
 }
 
 // hr {
@@ -30,7 +30,7 @@ h6 {
   @include heading-font;
   font-weight: 700;
   text-transform: uppercase;
-  color: $gray-800;
+  color: $gray-500;
 }
 
 h1 {
