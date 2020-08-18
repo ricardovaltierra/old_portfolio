@@ -316,8 +316,8 @@
     display: block;
     width: 357.76px;
     height: 208px;
-    background: rgb(165,29,43);
-    background: radial-gradient(circle, rgba(165,29,43,0.48501407398897056) 0%, rgba(189,140,140,0.7287115529805672) 100%); 
+    background: rgb(29,109,165);
+    background: radial-gradient(circle, rgba(29,109,165,0.6670869031206232) 0%, rgba(29,109,165,0.6474790599833684) 100%);  
     z-index: 2;
     /* transition: 0.5s; */
     opacity: 1;
