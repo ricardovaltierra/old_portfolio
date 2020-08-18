@@ -316,7 +316,8 @@
     display: block;
     width: 357.76px;
     height: 208px;
-    background: linear-gradient(to top, #000, transparent);
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,0.5550420851934523) 0%, rgba(0,0,0,0.47100847174807425) 100%); 
     z-index: 2;
     /* transition: 0.5s; */
     opacity: 1;
@@ -346,7 +347,7 @@
     margin: 0;
     font-size: 2.5rem;
     letter-spacing: 3px;
-    color: rgba(255, 255, 255, 0.658);
+    color: rgba(0, 0, 0, 0.856);
   }
 
   .team-text p {
@@ -354,8 +355,11 @@
     margin-bottom: 5rem !important;
     letter-spacing: 1px;
     font-size: 20px;
-    color: antiquewhite;
-    color: rgba(255, 255, 255, 0.651);
+    color: rgb(0, 0, 0);
+  }
+
+  .item1 li, .item2 i{
+    color: rgb(0, 0, 0) !important;
   }
 
   .social-icons {
