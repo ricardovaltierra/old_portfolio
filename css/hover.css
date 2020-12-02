@@ -295,8 +295,6 @@
     position: relative;
     z-index: 3;
     color: #fff;
-    
-    /* opacity: 1; */
   }
 
   .single-team::before {
@@ -308,12 +306,11 @@
     width: 357.76px;
     height: 208px;
     background: rgb(29,109,165);
-    background: radial-gradient(circle, rgba(22, 24, 26, 0.842) 50%, rgba(6, 12, 17, 0.647) 100%);  
+    background: radial-gradient(circle, rgba(22, 24, 26, 0.842) 50%, rgba(6, 12, 17, 0.647) 100%);
     z-index: 2;
     opacity: 0;
     transition: 0.5s;
   }
-
 
   .single-team:hover::before {
     opacity: 1;
@@ -338,7 +335,7 @@
     margin: 0;
     font-size: 2.5rem;
     letter-spacing: 3px;
-    color: rgb(248, 248, 248)
+    color: rgb(248, 248, 248);
   }
 
   .team-text p {
@@ -346,7 +343,7 @@
     margin-bottom: 5rem !important;
     letter-spacing: 1px;
     font-size: 20px;
-    color: rgb(248, 248, 248)
+    color: rgb(248, 248, 248);
   }
 
   .item1 li, .item2 i{
