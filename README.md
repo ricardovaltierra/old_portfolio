@@ -30,7 +30,7 @@ Personal professional portfolio.
 
 ## Preview
 
-![1](img/presentation.gif)
+<img src="img/presentation.gif" alt="Page preview" width="250" />
 
 > [Live Version](https://ricardovaltierra.github.io/)
 
