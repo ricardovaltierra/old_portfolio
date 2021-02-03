@@ -46,7 +46,7 @@
     display: block;
     width: 19.565rem;
     height: 11.375rem;
-    background: linear-gradient(to top, #000, transparent);
+    background: linear-gradient(to top, #0077B5, transparent);
     z-index: 2;
     transition: 0.5s;
     opacity: 0;
