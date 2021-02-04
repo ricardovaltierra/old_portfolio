@@ -172,7 +172,7 @@
     display: block;
     width: 15.652rem;
     height: 9.1rem;
-    background: linear-gradient(to top, #000, transparent);
+    background: linear-gradient(to top, #0077B5, transparent);
     z-index: 2;
     transition: 0.5s;
     opacity: 0;
@@ -306,7 +306,7 @@
     width: 357.76px;
     height: 208px;
     background: rgb(29,109,165);
-    background: radial-gradient(circle, rgba(22, 24, 26, 0.842) 50%, rgba(6, 12, 17, 0.647) 100%);
+    background: radial-gradient(circle, rgba(0, 119, 181, 0.842) 50%, rgba(0, 119, 181, 0.647) 100%);
     z-index: 2;
     opacity: 0;
     transition: 0.5s;
