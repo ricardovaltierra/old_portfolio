@@ -84,6 +84,17 @@ p.lead {
   color: #0077B5;
 }
 
+@media only screen and (min-width: 768px) {
+  footer > .social-icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
