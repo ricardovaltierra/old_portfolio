@@ -18,6 +18,17 @@ body {
   }
 }
 
+@media only screen and (min-width: 768px) {
+  footer > .social-icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
+
 h1,
 h2,
 h3,
